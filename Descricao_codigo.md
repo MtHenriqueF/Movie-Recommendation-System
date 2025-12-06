@@ -4,7 +4,7 @@ Caso queira ver o código funcionando, temos 2 videos na pasta videos
 
 - Pasta`checkpoint_spark` é uma pasta gerada por uma feature do PySpark para garantir a tolerância a falhas e otimizar o desempenho de aplicações de processamento de dados em larga escala.
   
-- Pasta `dados_brutos` é uma pasta onde guardamos os datasets que foram pegos do site: [Data set](https://grouplens.org/datasets/movielens/)
+- Pasta `dados_brutos` é uma pasta onde guardamos os datasets que foram pegos do site: [Data set](https://grouplens.org/datasets/movielens/) No caso no github não upei ele porque o github não permite o upload do dataset (+1gb).
   
 - Pasta `dados_processados` são os dados resultantes depois de etapas de pré processamento, como eliminação de colunas, avaliação de nulls, etc.
 
