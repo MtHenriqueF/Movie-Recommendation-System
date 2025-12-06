@@ -1,0 +1,7 @@
+column,null_count,dataset
+userId,0,ratings
+movieId,0,ratings
+rating,0,ratings
+movieId,0,movies
+title,0,movies
+genres,0,movies

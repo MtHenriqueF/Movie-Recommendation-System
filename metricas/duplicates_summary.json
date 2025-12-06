@@ -1,0 +1,26 @@
+{
+  "ratings": {
+    "pairs_with_more_than_one_rating": 0
+  },
+  "movies": {
+    "duplicate_movieIds": 0
+  },
+  "etl": {
+    "ratings": {
+      "before_nulls": 33832162,
+      "after_nulls": 33832162,
+      "before_range_filter": 33832162,
+      "after_range_filter": 33832162,
+      "before_duplicates": 33832162,
+      "after_duplicates": 33832162,
+      "duplicates_removed": 0
+    },
+    "movies": {
+      "before_nulls": 86537,
+      "after_nulls": 86537,
+      "before_duplicates": 86537,
+      "after_duplicates": 86537,
+      "duplicates_removed": 0
+    }
+  }
+}
