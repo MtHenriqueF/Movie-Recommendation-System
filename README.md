@@ -1,4 +1,5 @@
 # Sistema de Recomendação de Filmes com ALS e PySpark
+Link da base de dados usada: [Dataset](https://grouplens.org/datasets/movielens/)
 
 ## Problema e motivação
 
