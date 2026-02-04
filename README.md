@@ -132,7 +132,11 @@ Esses dois arquivos formam a base do nosso sistema de recomendação:
      - gráficos de análise exploratória;
      - interface para selecionar um usuário e ver as recomendações;
      - listagens de filmes e gêneros mais bem avaliados.
+     - ### Exemplo de visualização:
 
+     ![Exemplo do Sistema em Funcionamento](./Assets/using-system/images/System-in-use-1.png)
+
+     ![Exemplo 2 do Sistema em Funcionamento](./Assets/using-system/images/System-in-use-2.png)
 ---
 
 ## Principais resultados e visualizações
